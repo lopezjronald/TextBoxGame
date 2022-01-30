@@ -1,9 +1,9 @@
 public interface TextBasedGameImpl {
-    void intro();
+    void about();
     void help();
-    void open(Position position);
+    void open();
     void quit();
     void turn();
-    String input();
-    void walk (Position position);
+    void input();
+    void walk();
 }

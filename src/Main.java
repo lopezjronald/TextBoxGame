@@ -1,14 +1,15 @@
 import java.util.Scanner;
 
 public class Main {
+    String choice = "";
     static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
         boolean play = play();
         if (play) {
             TextBasedGame game = new TextBasedGame();
-            game.intro();
-            game.turn();
+            game.about();
+            game.input();
         } else {
             System.out.println("Thank you for checking out the game. Good-bye");
         }

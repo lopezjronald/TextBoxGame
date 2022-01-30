@@ -1,0 +1,54 @@
+Would you like to play?
+1. To Play
+2. To Quit
+turn
+Sorry, that was an invalid entry. Please choose 1 to play or 2 to quit
+1
+You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here
+turn
+Would you like to turn:
+1. Right
+2. Left
+help
+You have made an invalid entry. Please choose 1 to turn right or 2 to turn left
+intro
+You have made an invalid entry. Please choose 1 to turn right or 2 to turn left
+1
+turn
+Would you like to turn:
+1. Right
+2. Left
+2
+open
+You open the mailbox and find a map.
+walk
+You are currently looking west at the front door. There's a empty house you can open.
+What would you like to do next
+walk
+You are currently looking west at the first part of the hallway. There's a door under the stairs you can open.
+What would you like to do next
+walk
+You are currently looking west at the second part of the hallway. There's a window you can open.
+What would you like to do next
+turn
+Would you like to turn:
+1. Right
+2. Left
+2
+open
+You open the window and find a giant spider.
+turn
+Would you like to turn:
+1. Right
+2. Left
+1
+intro
+You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here
+walk
+You are currently looking west at the kitchen. There's a oven you can open.
+What would you like to do next
+open
+You have opened the escape portal. You have escaped the game!
+Thank you for playing
+
+Process finished with exit code 0
