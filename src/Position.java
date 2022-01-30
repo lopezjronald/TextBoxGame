@@ -34,4 +34,8 @@ public class Position {
     public int getPositionNumber() {
         return positionNumber;
     }
+
+    public String getRoomName() {
+        return roomName;
+    }
 }
